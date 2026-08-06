@@ -84,13 +84,14 @@ You can add screenshots here.
 
 Example:
 
-```
 <img width="608" height="742" alt="image" src="https://github.com/user-attachments/assets/852a2770-23fc-4b51-8c8d-8affc98aacee" />
+
 <img width="683" height="842" alt="image" src="https://github.com/user-attachments/assets/04f941c6-65ef-4e06-bac6-bff0dd6c0c44" />
+
 <img width="508" height="617" alt="image" src="https://github.com/user-attachments/assets/60a593e4-142e-479e-be2d-ae123782ac16" />
+
 <img width="583" height="592" alt="image" src="https://github.com/user-attachments/assets/c7d3f757-7d48-4bba-96cd-37fc88fbbf95" />
 
-```
 
 ---
 
